@@ -7,5 +7,5 @@
 5. The user can only see the posts if he is logged in properly.
 6. I'd used the Real time text editor using timymce-react to write the post content.
 7. This website shows the actual working of the CRUD operations and how they are used in social media platforms
-8. I'd used react router for page navigation
+8. I'd used react router for page navigation, by using the header and footer same for the entire site and changed the mid-content between them as user moes to different components. It increases the smoothness of the website without refreshing the whole page resulting in fast and seamless experience.
 9. I'd used AuthLayout component in order to navigate the user to the home page if logged in and if not then redirect him to the login page and prevent the access
