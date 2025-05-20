@@ -1,0 +1,5 @@
+1. Use Appwrite for database management and backend
+2. Use tiny mce for text editor
+3. use html react parser for parsing the html content stored in the form of html from the text editor
+4. use react hook form for the ease of form handling
+5. use environment variables to store secrets 
