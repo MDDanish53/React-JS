@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NetFlix Clone Using React JS
 
 This Netflix clone project enhances my clarity and deep understanding of react hooks usage and components as well as conditional rendering.
@@ -25,3 +26,8 @@ This Netflix clone project enhances my clarity and deep understanding of react h
 7. This trailer infomation is also taken from the TMDB api, the trailer from youtube is shown using the key of movie also the other details.
 
 
+=======
+# React Projects
+
+This repository contains my react foundational projects.
+>>>>>>> e3b92e867ddcbb9fd0ee19058559dcacf572e90a
